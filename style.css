@@ -1,0 +1,19 @@
+body {
+    background-color: #F09838;
+    color: #A03028;
+}
+
+#tabla1 {
+    width: 800px;
+    border-spacing: 0px;
+    background-color: #FFECC0;
+}
+
+.width150 {
+    width: 150px;
+    text-align: center;
+}
+
+.igazitKozepre {
+    text-align: center;
+}
